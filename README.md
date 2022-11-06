@@ -17,5 +17,7 @@
  <h2 align="center"> 📊 Minhas atividades: 📊</h3>
   
   ![Snake animation](https://github.com/Juangsales/Juangsales/blob/output/github-contribution-grid-snake.svg)
- 
+ <h2 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Juangsales}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
  </div>
