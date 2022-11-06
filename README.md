@@ -1,10 +1,9 @@
 
-<h1 align="center"> Olá 👋🏼, me chamo Juan Sales! <br> Sou Biólogo 🌎 e Desenvolvedor Web Full-Stack 🖥 </h1>
+<h1 align="center"> Olá 👋🏼, me chamo Juan Sales! <br> Sou Biólogo 🌎 e Desenvolvedor Web Full-Stack Jr. 🖥 </h1>
 <h5> Atualmente trabalhando na Dasa como Responsavel Técnico 📋 <br> Participante do projeto Programadores Cariocas  <br> Estudando Desenvolvimento Web Full-Stack pela Resilia, SENAC RJ e Prefeitura do Rio de Janeiro 💻
 
 <h2 align="center"> ⚡️ Meu desempenho: ⚡️</h3>
 <div align="center">
-  <a href="https://github.com/Juangsales">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juangsales&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juangsales&layout=compact&langs_count=7&theme=transparent"/>
 </div>
