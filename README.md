@@ -1,5 +1,5 @@
 
-<h1 align="center"> Olá 👋🏼, me chamo Juan Sales! <br> Biólogo 🌎 e Estudante de Tecnologia 🖥 </h1>
+<h1 align="center"> Olá 👋🏼, me chamo Juan Sales! <br>  Residente em Tecnologia 🖥 e Biólogo 🌎 </h1>
 <h5>Responsavel Técnico 📋 na Diagnosticos da América (DASA) <br> Participante do projeto Programadores Cariocas (Desenvolvedor Web Full-Stack) <br> Estudante de Tecnologia (Analises e Desenvolvimento de Sistemas) 💻</h5>
 
 <h2 align="center"> ⚡️ Meu desempenho: ⚡️</h2>
