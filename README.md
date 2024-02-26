@@ -1,6 +1,6 @@
 
-<h1 align="center"> Olá 👋🏼, me chamo Juan Sales! <br>  Residente em Tecnologia 🖥 e Biólogo 🌎 </h1>
-<h5>Responsavel Técnico 📋 na Diagnosticos da América (DASA) <br> Participante do projeto Programadores Cariocas (Desenvolvedor Web Full-Stack) <br> Estudante de Tecnologia (Analises e Desenvolvimento de Sistemas) 💻</h5>
+<h1 align="center"> Olá 👋🏼, me chamo Juan Sales! <br>  Residente em TIC 🖥 e Biólogo 🌎 </h1>
+<h5>Residente em Tecnologia da Informação e Comunicação <br> Participante do projeto Programadores Cariocas (Desenvolvedor Web Full-Stack) <br> Estudante de Tecnologia (Analises e Desenvolvimento de Sistemas) 💻</h5>
 
 <h2 align="center"> ⚡️ Meu desempenho: ⚡️</h2>
 <div align="center">
